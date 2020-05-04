@@ -1,0 +1,13 @@
+{
+  "name": "antmana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Esteban Ordano <esteban@decentraland.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/buidler": "^1.3.2",
+    "@nomiclabs/buidler-truffle5": "^1.3.2",
+    "@nomiclabs/buidler-web3": "^1.3.2",
+    "web3": "^1.2.7"
+  }
+}
